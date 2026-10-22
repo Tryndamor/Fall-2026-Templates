@@ -18,8 +18,8 @@ MonoBehaviour:
   meleeDamage: 45
   swingAttackCost: 10
   blockCost: 15
-  canCastDamage: 1
-  canCastHealing: 1
+  canCastDamage: 0
+  canCastHealing: 0
   healAmount: 1
   healRate: 0.12
   castDamage: 60
